@@ -7,13 +7,16 @@ Here is a meme I made by R package [magic](https://cran.r-project.org/web/packag
 _This meme is sourced from Drake - Hotline Bling_
 ![Drake](https://user-images.githubusercontent.com/101852426/159155594-2e001dd1-940a-4c89-b18d-de32b2c60129.png)
 
-
+# The reason why I share this to you guys.
+- Drake is my favorite rapper.
+- The first Drake's song I have listened is Hotline Bling which the meme is the capture from that MV.
+- I wish the pandemic end ASAP!!!!!
 
 
 
 
 # Here is the code of my meme!
-library(magick)
+```library(magick)
 Drake_yes <- image_read("https://m.media-amazon.com/images/M/MV5BZmQ2MzVhMTYtOTk0ZC00NzIwLWJiYjQtMjc3ZmE5ZDFhNTc4XkEyXkFqcGdeQXVyNjM0NzMyNTQ@._V1_.jpg") %>%
   image_scale(800)
 Drake_yes
@@ -48,3 +51,4 @@ Drake <- c(first_row, second_row) %>%
   image_append(stack = TRUE)
 
 image_write(Drake, path = "Drake.png", quality = 75)
+```
