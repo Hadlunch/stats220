@@ -9,7 +9,7 @@ _I wish is could share something interest here!_
 ![this is an image](https://i.kym-cdn.com/entries/icons/facebook/000/012/542/thumb-up-terminator_pablo_M_R.jpg)
 
 
-You can also check out my first [website](https://github.com/Hadlunch/stats220.git).
+You can also check out my first [Github website](https://github.com/Hadlunch/stats220.git).
 
 
 # **Stay safe and good luck!**
